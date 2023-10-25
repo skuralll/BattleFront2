@@ -1,7 +1,3 @@
 # GunServer
-- MinecraftBEのマルチプレイサーバー、BattleFront2のプラグインです
-- このSoracrafty/GunServerにて公開されているファイルのすべて、または一部を使用する場合[こちら](https://github.com/SoraCrafty/GunServer/blob/master/LICENSE.md)のライセンスを守ってください。
-
-# リンク
-- [Discord](https://discord.gg/hU3fsfn)
-- [Twitter](https://twitter.com/minecraftbf2)
+- Minecraft統合版のマルチプレイサーバー、BattleFront2で使用されていたプラグインです。
+- 銃火器を用いたPvPゲームを提供します。
